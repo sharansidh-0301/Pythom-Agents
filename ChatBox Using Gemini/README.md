@@ -24,7 +24,7 @@ A simple command-line chatbot powered by Google's Gemini API. This project allow
      ```
      GOOGLE_API_KEY=your_api_key_here
      ```
-     
+
 ## Usage
 
 Run the chatbot from the terminal:
@@ -40,4 +40,7 @@ Type your message and press Enter to chat. Type `exit` to end the conversation.
 - `ChatBox.py`: Main chatbot script
 - `.env`: Stores your Google API key (do not share this file)
 - `README.md`: Project documentation
+
+## Output
+![sample output](<Sample Output.png>)
 
