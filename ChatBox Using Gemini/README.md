@@ -24,7 +24,7 @@ A simple command-line chatbot powered by Google's Gemini API. This project allow
      ```
      GOOGLE_API_KEY=your_api_key_here
      ```
-
+     
 ## Usage
 
 Run the chatbot from the terminal:
