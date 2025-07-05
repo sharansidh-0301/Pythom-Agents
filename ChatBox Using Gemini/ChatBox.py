@@ -19,6 +19,7 @@ model = genai.GenerativeModel(
     generation_config=generation_config,
 )
 
+
 history = []
 chat_session = model.start_chat(history=history)
 
